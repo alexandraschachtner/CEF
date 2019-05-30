@@ -1,2 +1,2 @@
 # CEF
-Chess Education
+[Chess Education](https://alexandraschachtner.github.io/CEF/.)
