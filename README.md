@@ -1,2 +1,2 @@
 # CEF
-[Chess Education](https://alexandraschachtner.github.io/CEF/)
+[Donut Shop Website](https://alexandraschachtner.github.io/CEF/)
